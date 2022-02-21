@@ -45,7 +45,7 @@ const IndexPage = () => {
 	};
 
 	return (
-		<Center w={'100vw'} h={'100vh'} px={4}>
+		<Center w={'100vw'} h={'90vh'} px={4}>
 			<Box bg={'white'} maxW={'400px'} py={10} px={5} shadow={'base'}>
 				<VStack spacing={4}>
 					<Image src={'/whatsapp.svg'} h={'50px'} />
